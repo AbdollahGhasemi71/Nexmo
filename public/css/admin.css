@@ -1,0 +1,48 @@
+
+th {
+    font-family: "Comic Sans MS" !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 15px !important;
+    font-family: "Comic Sans MS";
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    background-color: #a55c5c;
+    color: wheat;
+}
+td{
+    font-family: "Comic Sans MS";
+}
+.label{
+    font-family: "Comic Sans MS";
+}
+.form-control{
+    border:  1px solid maroon;
+}
+.btn{
+    font-family: "Comic Sans MS";
+    border:  1px solid maroon;
+}
+textarea{
+    font-family: "Comic Sans MS";
+    resize: none;
+}
+input{
+    font-family: "Comic Sans MS";
+}
+td{
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+p{
+    font-family: "Comic Sans MS";
+    font-size: 14px;
+}
+h2{
+    font-family: "Comic Sans MS";
+}
